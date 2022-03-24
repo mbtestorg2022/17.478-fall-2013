@@ -82,11 +82,11 @@ Evans, Gareth, Ramesh Thakur, et al. "[Correspondence: Humanitarian Intervention
 
 _Europe_
 
-Solana, Javier. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"A Secure Europe in a Better World." (PDF)](https://www.consilium.europa.eu/en/documents-publications/publications/european-security-strategy-secure-europe-better-world/) European Council, Thessaloniki, 20/06/2003.
+Solana, Javier. ["A Secure Europe in a Better World." (PDF)](https://www.consilium.europa.eu/en/documents-publications/publications/european-security-strategy-secure-europe-better-world/) European Council, Thessaloniki, 20/06/2003.
 
 _Security Arguments_
 
-Batt, Judy, and Dov Lynch. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What is a 'Failing State', and When Is It a Security Threat?" (PDF)](https://www.iss.europa.eu/content/what-failing-state-and-when-it-security-threat) EU Institute for Security Studies, 2004.
+Batt, Judy, and Dov Lynch. ["What is a 'Failing State', and When Is It a Security Threat?" (PDF)](https://www.iss.europa.eu/content/what-failing-state-and-when-it-security-threat) EU Institute for Security Studies, 2004.
 
 Patrick, Stewart. "[Weak States and Global Threats: Fact or Fiction?](http://dx.doi.org/10.1162/wash.2006.29.2.27 )" _Washington Quarterly_ 29, no. 2 (2006): 27–53.
 
@@ -132,7 +132,7 @@ _Origin of Internal Conflicts – Identity_
 
 Byman, Daniel, and Stephen Van Evera. "[Why They Fight: Hypotheses on the Causes of Contemporary Deadly Conflict](http://dx.doi.org/10.1080/09636419808429350)." _Security Studies_ 7, no. 3 (1998): 1–50.
 
-Fuller, Graham E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["America's Uncomfortable Relationship with Nationalism." (PDF)](http://www.stanleyfoundation.org/publications/pab/pab06nationalism.pdf) Stanley Foundation Policy Analysis Brief, July 2006.
+Fuller, Graham E. ["America's Uncomfortable Relationship with Nationalism." (PDF)](http://www.stanleyfoundation.org/publications/pab/pab06nationalism.pdf) Stanley Foundation Policy Analysis Brief, July 2006.
 
 _Origin of Internal Conflicts – Rotten Elites_
 
@@ -186,7 +186,7 @@ _The Role Of The Media_
 
 Strobel, Warren P. "[The CNN Effect](http://ajrarchive.org/article.asp?id=3572)." _American Journalism Review_ 18 (1996): 32–4.
 
-Livingston, Steven. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Clarifying the CNN Effect: An Examination of Media Effects According to Type of Military Intervention." (PDF)](http://www.genocide-watch.org/images/1997ClarifyingtheCNNEffect-Livingston.pdf) Harvard University, John F. Kennedy School of Government, Research Paper R-18, June 1997.
+Livingston, Steven. ["Clarifying the CNN Effect: An Examination of Media Effects According to Type of Military Intervention." (PDF)](http://www.genocide-watch.org/images/1997ClarifyingtheCNNEffect-Livingston.pdf) Harvard University, John F. Kennedy School of Government, Research Paper R-18, June 1997.
 
 Bob, Clifford. "Power, Exchange, and Marketing." Chapter 2 in _The Marketing of Rebellion: Insurgents, Media, and International Activism_. Cambridge University Press, 2005. ISBN: 9780521607865. \[Preview with [Google Books](http://books.google.com/books?id=bkRn6pl2fcwC&pg=PAfrontcover)\]
 
@@ -222,7 +222,7 @@ Evans, Malcolm D., ed. "Convention Relating to the Status of Refugees (1951)," a
 
 _Ethics, Morals, and Norms_
 
-PP. II, VII-XXI, 69-85 in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Responsibility to Protect: Report of the International Commission on Intervention and State Sovereignty (PDF - 3.78MB)](http://responsibilitytoprotect.org/ICISS%20Report.pdf). International Development Research Centre, December 2001.
+PP. II, VII-XXI, 69-85 in [The Responsibility to Protect: Report of the International Commission on Intervention and State Sovereignty (PDF - 3.78MB)](http://responsibilitytoprotect.org/ICISS%20Report.pdf). International Development Research Centre, December 2001.
 
 
 {{< tdclose >}}
@@ -258,7 +258,7 @@ Byman, Daniel, and Taylor B. Seybolt. "[Humanitarian Intervention and Communal C
 
 Shafer, D. Michael. "Mao Minus Marx." Chapter 5 in _Deadly Paradigms: The Failure of U.S. Counterinsurgency Policy_. Princeton University Press, 1989, pp. 115–32. ISBN: 9780691023090.
 
-Record, Jeffrey. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The American Way of War: Cultural Barriers to Successful Counterinsurgency." (PDF)](http://www.cato.org/sites/cato.org/files/pubs/pdf/pa577.pdf) Cato Institute Policy Analysis No. 577, September 1, 2006.
+Record, Jeffrey. ["The American Way of War: Cultural Barriers to Successful Counterinsurgency." (PDF)](http://www.cato.org/sites/cato.org/files/pubs/pdf/pa577.pdf) Cato Institute Policy Analysis No. 577, September 1, 2006.
 
 _Recommended_
 
@@ -294,7 +294,7 @@ _Theories For Success_
 
 Barnett, Michael. "[Building a Republican Peace: Stabilizing States after War](http://dx.doi.org/10.1162/isec.2006.30.4.87)." _International Security_ 30, no. 4 (2006): 87–112.
 
-Kaufmann, Chaim. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Possible and Impossible Solutions to Ethnic Civil Wars." (PDF)](http://www.columbia.edu/itc/sipa/U6800/readings-sm/Kaufmann_PossibleImpossibleSolns.pdf) _International Security_ 20, no. 4 (1996): 136–75.
+Kaufmann, Chaim. ["Possible and Impossible Solutions to Ethnic Civil Wars." (PDF)](http://www.columbia.edu/itc/sipa/U6800/readings-sm/Kaufmann_PossibleImpossibleSolns.pdf) _International Security_ 20, no. 4 (1996): 136–75.
 
 Walter, Barbara F. "[The Critical Barrier to Civil War Settlement](http://www.jstor.org/stable/2703607)." _International Organization_ 51, no. 3 (1997): 335–64.
 
@@ -336,7 +336,7 @@ _Recommended_
 
 Rudd, Gordon W. "[Operation Provide Comfort: Humanitarian Intervention in Northern Iraq 1991](http://www.worldcat.org/title/operation-provide-comfort-humanitarian-intervention-in-northern-iraq-1991/oclc/033145098)," Thesis (Ph.D.), Duke University, 1993.
 
-Seiple, Chris. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The U.S. Military/NGO Relationship in Humanitarian Interventions." (PDF)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a308675.pdf) Peacekeeping Institute, Center For Strategic Leadership, U.S. Army War College, 1996.
+Seiple, Chris. ["The U.S. Military/NGO Relationship in Humanitarian Interventions." (PDF)](https://apps.dtic.mil/dtic/tr/fulltext/u2/a308675.pdf) Peacekeeping Institute, Center For Strategic Leadership, U.S. Army War College, 1996.
 
 _Somalia_
 
@@ -386,7 +386,7 @@ _Rwanda_
 
 Power, Samantha. "[Bystanders to Genocide: Why the United States Let the Rwandan Tragedy Happen](http://www.theatlantic.com/magazine/archive/2001/09/bystanders-to-genocide/304571/)." _Atlantic Monthly_ 288, no. 2 (2001): 84–108.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[U.S. Policy on Reforming Multilateral Peace Operations (PDF)](http://www.fas.org/irp/offdocs/pdd/pdd-25.pdf), Presidential Decision Directive/NSC- 25, May 3, 1994.
+[U.S. Policy on Reforming Multilateral Peace Operations (PDF)](http://www.fas.org/irp/offdocs/pdd/pdd-25.pdf), Presidential Decision Directive/NSC- 25, May 3, 1994.
 
 Destexhe, Alain. "[The Third Genocide](http://www.jstor.org/discover/10.2307/1149436?searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dalan%2Bdestexhe%2Bthird%2Bgenocide%26amp%3Bacc%3Doff%26amp%3Bwc%3Don%26amp%3Bfc%3Doff&resultItemClick=true&Search=yes&searchText=alan&searchText=destexhe&searchText=third&searchText=genocide&uid=3739696&uid=2134&uid=2&uid=70&uid=4&uid=3739256&sid=21103448461631)." _Foreign Policy_ 97 (1994–1995): 3–17.
 
@@ -458,11 +458,11 @@ Solana, Javier. "[NATO's Success in Kosovo](http://www.jstor.org/stable/20049537
 
 Steinberg, James B. "[Response: A Perfect Polemic-Blind to Reality on Kosovo](http://www.jstor.org/stable/20049539)." _Foreign Affairs_ 78, no. 6 (1999): 128–33.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Kosovo Air Operations: Need to Maintain Alliance Cohesion Resulted in Doctrinal Departures." (PDF)](http://www.gao.gov/assets/240/232148.pdf) GAO-01-784, U.S. General Accounting Office, July 2001.
+["Kosovo Air Operations: Need to Maintain Alliance Cohesion Resulted in Doctrinal Departures." (PDF)](http://www.gao.gov/assets/240/232148.pdf) GAO-01-784, U.S. General Accounting Office, July 2001.
 
 "[Kosovo/Kosova: As Seen, As Told - An analysis of the human rights findings of the OSCE Kosovo Verification Mission, October 1998 to June 1999](http://www.osce.org/odihr/17772)," pp. 21-30, OSCE Office for Democratic Institutions and Human Rights, 1999.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Report To Congress: Kosovo/Operation Allied Force After-Action Report." (PDF - 2.23MB)](https://archive.org/stream/ReporttoCongressKosovoOperationAlliedForceAfterActionReport/Report%20to%20Congress-Kosovo%20Operation%20Allied%20Force%20After-Action%20Report_djvu.txt) U.S. Department of Defense, January 31, 2000.
+["Report To Congress: Kosovo/Operation Allied Force After-Action Report." (PDF - 2.23MB)](https://archive.org/stream/ReporttoCongressKosovoOperationAlliedForceAfterActionReport/Report%20to%20Congress-Kosovo%20Operation%20Allied%20Force%20After-Action%20Report_djvu.txt) U.S. Department of Defense, January 31, 2000.
 
 
 {{< tdclose >}}
@@ -496,7 +496,7 @@ Pollack, Kenneth M. "[The Seven Deadly Sins of Failure in Iraq: A Retrospective 
 
 Biddle, Stephen. "[Seeing Baghdad, Thinking Saigon](http://www.foreignaffairs.com/articles/61502/stephen-biddle/seeing-baghdad-thinking-saigon)." _Foreign Affairs_ 85, no. 2 (2006): 2–14.
 
-Cole, Juan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Audit of the Conventional Wisdom: Iraq's Three Civil Wars." (PDF)](http://web.mit.edu/cis/pdf/Audit_01_08_Cole.pdf) MIT Center for International Studies, January 2008.
+Cole, Juan. ["Audit of the Conventional Wisdom: Iraq's Three Civil Wars." (PDF)](http://web.mit.edu/cis/pdf/Audit_01_08_Cole.pdf) MIT Center for International Studies, January 2008.
 
 Simon, Steve. "[The Price of the Surge: How U.S. Strategy is Hastening Iraq's Demise](http://www.jstor.org/stable/20032651)." _Foreign Affairs_ 87, no. 3 (2008): 57–72, 74-6.
 
@@ -514,7 +514,7 @@ Libya
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Resolution 1973 (2011), United Nations Security Council, March 17, 2011.
+Resolution 1973 (2011), United Nations Security Council, March 17, 2011.
 
 Hehir, Aidan. "[The Permanence of Inconsistency: Libya, the Security Council, and the Responsibility to Protect](http://dx.doi.org/10.1162/ISEC_a_00125)." _International Security_ 38, no. 1 (2013): 137–59.
 
