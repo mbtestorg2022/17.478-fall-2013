@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32740b15-4b57-3322-7c52-c978d0fb64eb
 resourcetype: Image
 title: 17-478_classroom-1
 uid: 78ad7f64-b3a5-b9b4-f966-47ed80774860
